@@ -3,6 +3,8 @@
 ## Overview
 The EXL2 Automatic Quantizer GUI is a tool designed to automate the quantization process for models using the EXL2 method. It provides a user-friendly interface to configure and run quantization tasks efficiently.
 
+![EXL2 Automatic Quantizer GUI](https://i.imgur.com/nq9Xaq5.png)
+
 ## Prerequisites
 Before you can use the EXL2 Automatic Quantizer GUI, you need to install the following prerequisites:
 
